@@ -9,8 +9,8 @@ to run:
 
 ```
 npm install
-npm i babel-node -g
-node-babel index
+npm install -g babel-cli
+babel-node index
 ```
 
 Happy days!
